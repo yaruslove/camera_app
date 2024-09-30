@@ -1,0 +1,19 @@
+
+path_save: /Users/YaVolkonskiy/Documents/001_Projects/003_tomato/003_Project_Owner/004_Заказчики/002_Эко_Культура_Подмосковье/011_Поездка_в теплицу/001_Поездка_Октябрь_2024/Программы/saved_photo
+
+# init_window_size: "1000x800"
+init_window_size: "1536x924"
+# init_window_size: "1920x1080"
+
+
+
+### Logitech BRIO 4k
+img_save_size: [3840,2160]
+# img_save_size: [1536,864]
+img_wind_size: [1536,864]
+
+# img_wind_size: [1920,1080]
+
+### Logitech C 920
+# img_save_size: [1920,1080]
+# img_wind_size: [1920,1080]

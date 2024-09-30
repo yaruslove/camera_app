@@ -1,0 +1,1 @@
+apiPreference: [cv2.CAP_FFMPEG, cv2.CAP_IMAGES, cv2.CAP_DSHOW, cv2.CAP_AVFOUNDATION]
